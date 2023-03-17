@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1071061181382",
+    "project_id": "chatflutter-2a02c",
+    "storage_bucket": "chatflutter-2a02c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071061181382:android:8d7fc5042dabd43e9ac8c7",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071061181382-7jn3iti5jhvfqjca6vheda52ukn00p7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chat",
+            "certificate_hash": "c62c9cb41b7addac655aed0756731facb61e07e0"
+          }
+        },
+        {
+          "client_id": "1071061181382-kfsvmcmil2th8f36uqtt062hd772va2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFafh7fx9V8-nA__SWLqPuKFffxVDHXlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071061181382-526r784cde6g0tnp5k3t9j8536fnv76c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071061181382-d5rm58hr43f4qud2sm9rab7uhslcohuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.au"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071061181382:android:d1da496966de41359ac8c7",
+        "android_client_info": {
+          "package_name": "com.example.au"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071061181382-kfsvmcmil2th8f36uqtt062hd772va2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFafh7fx9V8-nA__SWLqPuKFffxVDHXlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071061181382-526r784cde6g0tnp5k3t9j8536fnv76c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071061181382-d5rm58hr43f4qud2sm9rab7uhslcohuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.au"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
